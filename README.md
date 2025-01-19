@@ -36,7 +36,7 @@ The `SystemModelinggg` class aims to model and analyze queuing systems. It inclu
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Merve-1/Discrete-Event-Simulation-
    ```
 
 2. **Navigate to the Package Directory:**
