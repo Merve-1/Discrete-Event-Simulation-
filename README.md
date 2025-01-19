@@ -5,7 +5,6 @@ The `system.modelinggg` package provides a Java implementation for system modeli
 ## Table of Contents
 - [Overview](#overview)
 - [Functions](#functions)
-- [Usage](#usage)
 
 
 ## Overview
@@ -31,26 +30,4 @@ The `SystemModelinggg` class aims to model and analyze queuing systems. It inclu
      ```java
      function2();
      ```
-
-## Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Merve-1/Discrete-Event-Simulation-
-   ```
-
-2. **Navigate to the Package Directory:**
-   ```bash
-   cd system/modelinggg
-   ```
-
-3. **Run the Program:**
-   ```bash
-   javac SystemModelinggg.java
-   java SystemModelinggg
-   ```
-
-4. **Follow the On-Screen Instructions:**
-   - For fixed values, enter `1`.
-   - For random values, enter `2` and follow the prompts.
 
