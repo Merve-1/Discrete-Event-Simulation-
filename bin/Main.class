@@ -1,0 +1,54 @@
+package projectSICXE;
+public class Main {
+  
+  static java.util.ArrayList<java.lang.String> locctr;
+  
+  static java.util.ArrayList<java.lang.String> label;
+  
+  static java.util.ArrayList<java.lang.String> instr;
+  
+  static java.util.ArrayList<java.lang.String> refr;
+  
+  static java.util.ArrayList<java.lang.String> objCode;
+  
+  static java.util.ArrayList<java.lang.String> first4opcode;
+  
+  static java.util.ArrayList<java.lang.String> Binopcode;
+  
+  static java.util.ArrayList<java.lang.String> second2opcode;
+  
+  static java.util.ArrayList<java.lang.String> opNI;
+  
+  static java.util.ArrayList<java.util.ArrayList<java.lang.String>> Registers;
+  
+  static java.lang.String opcode;
+  
+  static java.lang.String temp1;
+  
+  static java.lang.String temp2;
+  
+  static java.lang.String Register1;
+  
+  static java.lang.String Register2;
+  
+  private static final java.lang.String[][] OPTAB;
+  
+  static {} {
+  }
+  
+  public Main() {
+  }
+  
+  public static void FormatTwo(int i) {
+  }
+  
+  public static void main(java.lang.String[] args) {
+  }
+  
+  public static java.lang.String hexToBin(java.lang.String hex) {
+    return null;
+  }
+  
+  public static void initialize() {
+  }
+}
