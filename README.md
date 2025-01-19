@@ -2,10 +2,6 @@
 
 The `system.modelinggg` package provides a Java implementation for system modeling, specifically focusing on generating statistics related to queuing systems. The package contains two main functions: `function1()` for fixed values and `function2()` for random number generation.
 
-## Table of Contents
-- [Overview](#overview)
-- [Functions](#functions)
-
 
 ## Overview
 
