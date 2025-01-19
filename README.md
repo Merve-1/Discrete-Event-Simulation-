@@ -17,11 +17,12 @@ Welcome to the **Java Projects** repository! This repository contains various Ja
 To view a specific project, switch to the corresponding branch:  
 
 - **Discrete Event Simulation**: Switch to the `Discrete-Simulation-Project` branch.
-  
+![image](https://github.com/user-attachments/assets/090203e0-0a95-46dc-af5a-d540ac2f6978)
+
 - **SICXE Assembler**: Switch to the `SICXE` branch.  
 ![image](https://github.com/user-attachments/assets/d18c790e-b227-43d7-b3c6-5d71d36cea13)
 
 You can switch branches using the branch dropdown menu above or the Git command line:  
 ```bash
 git checkout SICXE
-git checkout Discrete-Event-Simulation 
+git checkout Discrete-Simulation-Project
